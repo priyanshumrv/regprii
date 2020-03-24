@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1098573969662",
+    "firebase_url": "https://priy-login.firebaseio.com",
+    "project_id": "priy-login",
+    "storage_bucket": "priy-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098573969662:android:c1d1b7dcfac6e0b3d9cdaf",
+        "android_client_info": {
+          "package_name": "com.example.loginpri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098573969662-9kvfnl75uui8lqu7tgltdg9nomff7iej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQ2opnUpODoEqatMfSizcv6TS9da7E8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098573969662-9kvfnl75uui8lqu7tgltdg9nomff7iej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098573969662:android:1d075a0f01be34d9d9cdaf",
+        "android_client_info": {
+          "package_name": "com.example.loginpri2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098573969662-9kvfnl75uui8lqu7tgltdg9nomff7iej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQ2opnUpODoEqatMfSizcv6TS9da7E8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098573969662-9kvfnl75uui8lqu7tgltdg9nomff7iej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
